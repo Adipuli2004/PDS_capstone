@@ -12,6 +12,15 @@ c. Taxes and Deduction calculations: The program calculates taxes and deductions
 Stock Portfolio Analysis:
 In addition to personal finance management, the project also focuses on analyzing an individual's stock portfolio. It equips users with the necessary tools to make informed decisions and maximize returns on their investments.
 Some of the important information that it provides the user is:
-1.Performance Metrics: The project offers a range of performance metrics, such as return on investment (ROI), annualized returns analysis, Portfolio turnovers. These metrics allow users to assess the performance of their portfolio against benchmarks and evaluate the risk-reward tradeoff.
+1. Performance Metrics: The project offers a range of performance metrics, such as return on investment (ROI), annualized returns analysis, Portfolio turnovers. These metrics allow users to assess the performance of their portfolio against benchmarks and evaluate the risk-reward tradeoff.
 2.Risk Assessment: By calculating several very important ratios such as Sortino,Treyborn ratios along with more values such as alpha and beta along with calculating downside risk and other factors, the project helps users assess the risk associated with their stock portfolio. It calculates metrics such as standard deviation, beta, and Sharpe ratio to measure the portfolio's volatility and risk-adjusted returns.
 3. The project also calculates CAGR(Compounded Annual Growth Rate) of the portfolio which tells the user more about his investments. Information Ratio is also calculated.
+The libraries that have been used in this project are:stdio.h,stdlib.h, math.h,string.h.
+Resources that can be used to study more about this topic are:
+1. Personal Finances from Investopedia.com
+2. Numerical methods in finance with C.
+3. https://www.investopedia.com/terms/d/deductible.asp
+4. https://www.investopedia.com/terms/d/deductible.asp
+5. https://www.investopedia.com/terms/s/sortinoratio.asp
+6. https://www.investopedia.com/terms/t/treynorratio.asp
+
