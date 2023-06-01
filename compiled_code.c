@@ -336,7 +336,7 @@ float deductions(float amt){
             printf("invalid input\n");
         }
     }
-    else if((ans=='n')||(ans=='N')){
+    else if((ans=='y')||(ans=='Y')){
         ans='y';
         printf("OK\n");
     }
